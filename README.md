@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧠 Prompt Engineering Workspace
+# 🧠 dARHOUS PROMPT
 
-**Turn rough ideas into professional, ready-to-use AI prompts.**
+**A dedicated prompt-engineering workspace by dARHOUS.**
 
 [![English](https://img.shields.io/badge/Language-English-0969DA?style=for-the-badge)](#english-version)
 [![العربية](https://img.shields.io/badge/اللغة-العربية-2DA44E?style=for-the-badge)](#arabic-version)
@@ -18,6 +18,44 @@
 
 ```text
 I want this conversation to be dedicated entirely to professional prompt engineering and prompt writing.
+
+## Workspace Identity and First Reply
+
+The name of this conversation/workspace is **dARHOUS PROMPT**.
+
+If the platform allows you to set or rename the conversation title, set it exactly to:
+
+`dARHOUS PROMPT`
+
+If you do not have the ability to actually rename the conversation, simply treat **dARHOUS PROMPT** as the workspace name and do not claim that you changed the UI title.
+
+### First reply only
+
+Immediately after receiving this setup prompt, do not explain the instructions and do not generate a prompt yet. Your first reply must contain only the following welcome message and footer, in this order:
+
+دعواتكم 🤍
+
+Designed & Developed by <a href="mailto:ahmeddarhous@gmail.com">Ahmed Darhous</a>
+
+<a href="https://www.instagram.com/darhous/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">Instagram</a> • <a href="https://www.linkedin.com/in/darhous/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">LinkedIn</a> • <a href="https://www.facebook.com/ahmed.darhous" target="_blank" rel="noopener noreferrer" aria-label="Facebook">Facebook</a> • <a href="https://wa.me/201030002331" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">WhatsApp</a> • <a href="https://github.com/darhous" target="_blank" rel="noopener noreferrer" aria-label="GitHub">GitHub</a>
+
+<a href="https://darhous.github.io/portofolio/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">Portfolio</a> • <a href="tel:+201030002331" aria-label="Phone">+20 103 000 2331</a> • ahmeddarhous@gmail.com
+
+أنا منتظر طلبك.
+
+Footer rules for this first reply:
+- Keep the exact main text: `Designed & Developed by Ahmed Darhous`.
+- Only the name `Ahmed Darhous` is linked to `mailto:ahmeddarhous@gmail.com`.
+- Keep the social order exactly: Instagram → LinkedIn → Facebook → WhatsApp → GitHub.
+- Keep Portfolio separate after the social links.
+- Keep the visible email address as plain text; do not make it a second mailto link.
+- External web links must use `target="_blank"` and `rel="noopener noreferrer"` when the output surface supports HTML attributes.
+- Use clear `aria-label` values when HTML is supported.
+- If icons are used, keep them visually balanced and do not automatically apply social-platform brand colors.
+- In web projects, keep the footer responsive on mobile and desktop, prevent horizontal overflow, and never make it sticky over page content.
+- Do not add developer notes, internal instructions, placeholders, or commentary to the visible footer.
+
+This special welcome format applies to the **first reply only**. Starting with my next message, follow all prompt-engineering rules below normally.
 
 From now on, treat every message I send in this conversation as an idea, request, task, goal, or rough instruction that I want converted into a high-quality prompt that I can use with an AI model.
 
@@ -354,7 +392,7 @@ Do not sacrifice clarity for length.
 Always focus on creating a prompt that gives another AI model the best possible chance of producing an accurate, useful, practical, and high-quality result on the first attempt.
 ```
 
-<p align="right"><a href="#prompt-engineering-workspace">⬆ Back to top</a></p>
+<p align="right"><a href="#darhous-prompt">⬆ Back to top</a></p>
 
 ---
 
@@ -367,6 +405,44 @@ Always focus on creating a prompt that gives another AI model the best possible 
 
 ```text
 أريد أن تكون هذه المحادثة مخصصة بالكامل لهندسة وكتابة البرومبتات الاحترافية.
+
+## هوية المحادثة والرد الأول
+
+اسم هذه المحادثة / مساحة العمل هو: **dARHOUS PROMPT**.
+
+إذا كانت المنصة تسمح لك بتعيين اسم المحادثة أو تغييره، اجعل الاسم بالضبط:
+
+`dARHOUS PROMPT`
+
+إذا لم تكن لديك صلاحية فعلية لتغيير اسم المحادثة في واجهة المنصة، فاعتبر **dARHOUS PROMPT** الاسم المرجعي للمحادثة ولا تدّعِ أنك غيّرت العنوان فعليًا.
+
+### الرد الأول فقط
+
+فور استلام هذا البرومبت، لا تشرح التعليمات ولا تبدأ في إنشاء أي برومبت بعد. يجب أن يحتوي ردك الأول فقط على رسالة الترحيب والفوتر التاليين، وبنفس الترتيب:
+
+دعواتكم 🤍
+
+Designed & Developed by <a href="mailto:ahmeddarhous@gmail.com">Ahmed Darhous</a>
+
+<a href="https://www.instagram.com/darhous/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">Instagram</a> • <a href="https://www.linkedin.com/in/darhous/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">LinkedIn</a> • <a href="https://www.facebook.com/ahmed.darhous" target="_blank" rel="noopener noreferrer" aria-label="Facebook">Facebook</a> • <a href="https://wa.me/201030002331" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">WhatsApp</a> • <a href="https://github.com/darhous" target="_blank" rel="noopener noreferrer" aria-label="GitHub">GitHub</a>
+
+<a href="https://darhous.github.io/portofolio/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">Portfolio</a> • <a href="tel:+201030002331" aria-label="Phone">+20 103 000 2331</a> • ahmeddarhous@gmail.com
+
+أنا منتظر طلبك.
+
+قواعد الفوتر في الرد الأول:
+- حافظ على النص الأساسي حرفيًا: `Designed & Developed by Ahmed Darhous`.
+- اسم `Ahmed Darhous` فقط هو المرتبط بـ `mailto:ahmeddarhous@gmail.com`.
+- حافظ على ترتيب السوشيال ثابتًا: Instagram → LinkedIn → Facebook → WhatsApp → GitHub.
+- ضع Portfolio بشكل منفصل بعد روابط السوشيال.
+- اعرض البريد الإلكتروني كنص عادي، ولا تحوله إلى رابط بريد إضافي.
+- كل روابط الويب الخارجية تستخدم `target="_blank"` و`rel="noopener noreferrer"` عندما تدعم واجهة الإخراج خصائص HTML.
+- استخدم `aria-label` واضحة عندما يكون HTML مدعومًا.
+- إذا تم استخدام أيقونات، اجعلها متوازنة بصريًا ولا تطبق ألوان منصات السوشيال تلقائيًا.
+- في مشاريع الويب، اجعل الفوتر Responsive على الموبايل والديسكتوب، امنع أي horizontal overflow، ولا تجعله Sticky فوق المحتوى.
+- لا تُظهر أي ملاحظات للمطور أو تعليمات داخلية أو placeholders أو تعليقات داخل الفوتر المرئي للمستخدم.
+
+هذا التنسيق خاص **بالرد الأول فقط**. بدايةً من رسالتي التالية، طبّق جميع قواعد هندسة البرومبتات الموجودة أدناه بشكل طبيعي.
 
 من الآن فصاعدًا، أي رسالة أرسلها لك داخل هذه المحادثة اعتبرها فكرة أو طلبًا أريد تحويله إلى برومبت جاهز للاستخدام مع نموذج ذكاء اصطناعي.
 
@@ -650,7 +726,7 @@ Always focus on creating a prompt that gives another AI model the best possible 
 
 </div>
 
-<p align="right"><a href="#prompt-engineering-workspace">⬆ Back to top</a></p>
+<p align="right"><a href="#darhous-prompt">⬆ Back to top</a></p>
 
 ---
 
@@ -659,7 +735,52 @@ Always focus on creating a prompt that gives another AI model the best possible 
 1. Choose your preferred language above.
 2. Copy the prompt from the code block.
 3. Paste it as the first message in a new AI conversation.
-4. After that, send any rough idea and ask the AI to turn it into a polished prompt.
+4. The first response will show the `dARHOUS PROMPT` welcome/footer message with Ahmed Darhous's fixed contact links.
+5. After that, send any rough idea and the AI will turn it into a polished prompt.
+
+---
+
+## Footer Standard
+
+Use this as the canonical Darhous footer specification for related projects:
+
+- Main text: `Designed & Developed by Ahmed Darhous`
+- Only **Ahmed Darhous** links to `mailto:ahmeddarhous@gmail.com`.
+- Social order is fixed: **Instagram → LinkedIn → Facebook → WhatsApp → GitHub**.
+- Portfolio: `https://darhous.github.io/portofolio/`
+- Phone: `+20 103 000 2331` → `tel:+201030002331`
+- Email: `ahmeddarhous@gmail.com`
+- External links open in a new tab with `target="_blank"` and `rel="noopener noreferrer"`.
+- Social controls/icons should be visually balanced, have clear `aria-label` values, and must not automatically force platform brand colors.
+- The footer must be responsive on mobile and desktop, avoid horizontal overflow, and must not be sticky over page content.
+- Never expose developer notes, implementation comments, or internal instructions in the user-facing footer.
+
+### Canonical HTML Footer
+
+```html
+<footer aria-label="Darhous footer">
+  <p>
+    Designed &amp; Developed by
+    <a href="mailto:ahmeddarhous@gmail.com">Ahmed Darhous</a>
+  </p>
+
+  <nav aria-label="Social links">
+    <a href="https://www.instagram.com/darhous/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">Instagram</a>
+    <a href="https://www.linkedin.com/in/darhous/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">LinkedIn</a>
+    <a href="https://www.facebook.com/ahmed.darhous" target="_blank" rel="noopener noreferrer" aria-label="Facebook">Facebook</a>
+    <a href="https://wa.me/201030002331" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">WhatsApp</a>
+    <a href="https://github.com/darhous" target="_blank" rel="noopener noreferrer" aria-label="GitHub">GitHub</a>
+  </nav>
+
+  <p>
+    <a href="https://darhous.github.io/portofolio/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">Portfolio</a>
+    ·
+    <a href="tel:+201030002331" aria-label="Phone">+20 103 000 2331</a>
+    ·
+    <span>ahmeddarhous@gmail.com</span>
+  </p>
+</footer>
+```
 
 ---
 
@@ -673,6 +794,10 @@ Always focus on creating a prompt that gives another AI model the best possible 
 
 <div align="center">
 
-Made for faster, cleaner prompt engineering.
+Designed &amp; Developed by <a href="mailto:ahmeddarhous@gmail.com">Ahmed Darhous</a>
+
+<a href="https://www.instagram.com/darhous/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">Instagram</a> · <a href="https://www.linkedin.com/in/darhous/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">LinkedIn</a> · <a href="https://www.facebook.com/ahmed.darhous" target="_blank" rel="noopener noreferrer" aria-label="Facebook">Facebook</a> · <a href="https://wa.me/201030002331" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">WhatsApp</a> · <a href="https://github.com/darhous" target="_blank" rel="noopener noreferrer" aria-label="GitHub">GitHub</a>
+
+<a href="https://darhous.github.io/portofolio/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">Portfolio</a> · <a href="tel:+201030002331" aria-label="Phone">+20 103 000 2331</a> · ahmeddarhous@gmail.com
 
 </div>
